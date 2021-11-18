@@ -77,6 +77,7 @@ function App() {
     let todos = [
         {label: "Learn JS", completed: true},
         {label: "Learn Node", completed: false},
+        {label: "Learn HTML", completed: false},
         {label: "Learn CSS", completed: false},
     ]
 
