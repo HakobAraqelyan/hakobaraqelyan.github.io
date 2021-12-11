@@ -1,24 +1,14 @@
 {
-  "name": "armyoutube",
+  "name": "y",
   "version": "1.0.0",
-  "description": "ArmYoutube coors",
-  "main": "\t",
-  "directories": {
-    "test": "test"
-  },
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "js",
-    "javascript",
-    "webpack"
-  ],
-  "author": "hakob <hakob.araqelyan.212@mail.ru>",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^5.64.0",
-    "webpack-cli": "^4.9.1"
-  },
-  "dependencies": {}
+    "json-server": "^0.17.0"
+  }
 }
